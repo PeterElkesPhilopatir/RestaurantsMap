@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "15490328089",
+    "project_id": "restaurantsmap-ec697",
+    "storage_bucket": "restaurantsmap-ec697.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15490328089:android:a0c85cfccddd95c5f42c88",
+        "android_client_info": {
+          "package_name": "com.peter.restaurantsmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15490328089-ksaup76k29o6th9jhpr586utd75vfd9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peter.restaurantsmap",
+            "certificate_hash": "d1daef957ce93f8023125ed5b69a95f80c036f6f"
+          }
+        },
+        {
+          "client_id": "15490328089-1371jtk0gngha880sh2n3jeddlus6mu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7uuUFqsKcF0x07RYWRFHPe-c4VWCYn-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15490328089-1371jtk0gngha880sh2n3jeddlus6mu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
